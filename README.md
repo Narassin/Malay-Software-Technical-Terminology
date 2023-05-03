@@ -41,10 +41,10 @@ Version 1.0
 | RAM (Random Access Memory) |  |
 | Source code |  |
 | Condition |  |
-| Loop |  |
-| Iteration |  |
-| Function |  |
-|Algorithm| Algoritma |
+| Loop| Ulangan |
+| Iteration|  |
+| Function|  |
+| Algorithm| Algoritma |
 |Binary|  |
 |Bit||
 |Byte||
@@ -63,17 +63,17 @@ Version 1.0
 |Kernel||
 |LAN (Local Area Network)||
 |Megabyte||
-|Operating System||
+|Operating System|Sistem Operasi|
 |Protocol||
 |RAM (Random Access Memory)||
 |Router||
 |Software||
 |Source Code||
 |Terabyte||
-|User Interface||
-| Variable | Pemboleh Ubah |
+|User Interface|Antara Muka|
+|Variable| Pemboleh Ubah |
 |VPN (Virtual Private Network)||
-|Wi-Fi||
+|Wi-Fi|-|
 |XML (Extensible Markup Language)||
 
 ## Software Development Terminology
@@ -84,20 +84,20 @@ Version 1.0
 | Software  | Perisian |
 | Agile | - |
 | API (Application Programming Interface)||
-|Back-end||
-|Build||
-|Code||
-|Debugging||
-|Deployment||
-|Front-end||
-|Integration||
-|Iteration||
-|Object-oriented||
-|Open-source||
-|Prototype||
-|Regression testing||
-|Repository||
-Scrum
+| Back-end||
+| Build||
+| Code||
+| Debugging||
+| Deployment||
+| Front-end||
+| Integration||
+| Iteration||
+| Object-oriented||
+| Open-source||
+| Prototype||
+| Regression testing||
+| Repository||
+| Scrum
 Sprint
 Test-driven development (TDD)
 Unit testing
@@ -156,33 +156,33 @@ Sprint planning.
 
 | Terminology | Malay Translation |
 | ------------- | ------------- |
-Agile methodology
-Backlog
-Budget
-Business requirements
-Cost-benefit analysis
-Customer relationship management (CRM)
-Deployment
-Functional requirements
-Key performance indicator (KPI)
-Minimum viable product (MVP)
-Product backlog
-Project management
-Return on investment (ROI)
-Risk assessment
-Scrum methodology
-Stakeholder
-Software development life cycle (SDLC)
-Sprint
-User acceptance testing (UAT)
-User experience (UX)
-Vendor management
-Agile transformation
-Business analysis
-Change management
-Continuous improvement
-Lean methodology
-Market research
-Product development
-Project scope
-Stakeholder engagement.
+| Agile methodology
+| Backlog
+| Budget
+| Business requirements
+| Cost-benefit analysis
+| Customer relationship management (CRM)
+| Deployment
+| Functional requirements
+| Key performance indicator (KPI)
+| Minimum viable product (MVP)
+| Product backlog
+| Project management
+| Return on investment (ROI)
+| Risk assessment
+| Scrum methodology
+| Stakeholder
+| Software development life cycle (SDLC)
+| Sprint
+| User acceptance testing (UAT)
+| User experience (UX)
+| Vendor management
+| Agile transformation
+| Business analysis
+| Change management
+| Continuous improvement
+| Lean methodology
+| Market research
+| Product development
+| Project scope
+| Stakeholder engagement.
