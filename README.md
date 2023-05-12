@@ -9,18 +9,18 @@ LASTEST UPDATE WAS 3/5/2023
 *Terms that have " - " as their translation means theres no proper standard translation so you can use the original term and just italicize.
 
 ## Quick Links
-- Contribute Guideline: **TBA**
+- Contribute Guideline: https://github.com/Narassin/Malay-Software-Technical-Terminology/blob/main/.github/CONTRIBUTE.md
 - Suggestion tracker: https://github.com/Narassin/Malay-Software-Technical-Terminology/issues
 
 
 ## To Do List 
 
-Version 1.0
+Road to Version 1.0
 - [x] Find all possible terms that are used 
 - [x] Categorize the terms into 4 group (Basic, Software Development, Project management)
-- [_] Translate to malay
-- [_] Add the definition of the term in malay
-- [_] Delete Duplicate
+- [x] Translate to malay
+- [] Add the definition of the term in malay
+- [] Delete Duplicate
 
 ## Table of Context
 
@@ -45,7 +45,7 @@ Version 1.0
 | Firewall | - |
 | Function | Fungsi |
 | Gigabyte | Gigabait |
-| GUI (Graphical User Interface) | - |
+| GUI (Graphical User Interface) | GUI (Antara Muka Grafik Pengguna) |
 | HTML (Hypertext Markup Language) | - |
 | IDE (Integrated Development Environment) | - |
 | LAN (Local Area Network) | LAN (Rangkaian kawasan setempat) |
@@ -72,7 +72,7 @@ Version 1.0
 | Software Engineer | Jurutera Perisian |
 | Software  | Perisian |
 | Agile | - |
-| API (Application Programming Interface) |  |
+| Application Programming Interface (API) |  Antara Muka Pengaturcaraan Aplikasi (API) |
 | Back-end | - |
 | Build | - |
 | Coding | Pengekodan |
@@ -81,7 +81,6 @@ Version 1.0
 | Error | Ralat |
 | Front-end | - |
 | Integration | Integrasi |
-| Iteration | Ulangan |
 | Object-oriented | - |
 | Open-source | - |
 | Prototype | Prototaip |
@@ -91,15 +90,14 @@ Version 1.0
 | Sprint | - | 
 | Test-driven development (TDD) | Pembangunan berasaskan ujian |
 | Unit testing | Ujian Unit | 
-| User Acceptance Testing (UAT) | 
 | Version control | Kawalan Versi | 
-| Waterfall model | Model AirTerjun |
-| Bug | - |
+| Waterfall model | Model Air Terjun |
+| Bug | Bug |
 | DevOps | - |
 | Continuous integration (CI) | Intergrasi Berterusan (CI) |
 | Continuous delivery (CD) |  Penghantaran berterusan (CD) |
 | Deployment pipeline | - |
-| Technical debt | - |
+| Technical debt | Hutang Teknikal |
 | Refactoring | - |
 | Pair programming | - | 
 
@@ -110,68 +108,69 @@ Version 1.0
 | Timeline  | Garis masa |
 | Roadmap  | Peta jalan  |
 | Agile methodology | Metodologi Agile |
-| Backlog  | 
-| Burn down chart
-| Change control
-| Critical path
-| Gantt chart
-| Kanban methodology
-| Milestone
-| Project charter
-| Project management plan (PMP)
-| Project scope
-| Project sponsor
-| Resource allocation
-| Risk management
-| Scrum methodology
-| Sprint
-| Stakeholder management
-| Time tracking
-| User stories
-| Velocity
-| Work breakdown structure (WBS)
-| Agile transformation
-| Business analysis
-| Cost estimation
-| Iteration | 
-| Lean methodology
-| Project closure
-| Project initiation
-| Project team
-| Sprint planning
+| Backlog  | Tugasan |
+| Change control | Penukaran Kawalan |
+| Critical path | Laluan Kritikal |
+| Gantt chart | - |
+| Kanban methodology | Metodologi Kanban |
+| Milestone | Titik Capai |
+| Project charter | Piagam Projek |
+| Project management plan (PMP) | Pelan Pengurusan Projek |
+| Project scope | Skop Projek |
+| Project sponsor | Penaja Projek |
+| Resource allocation | Peruntukan Sumber | 
+| Risk management | Pengurusan Risiko |
+| Scrum methodology | Metodologi Scrum |
+| Sprint | - | 
+| Stakeholder management | Pengurusan Pihak Berkepentingan |
+| Time tracking | Penjejakan Masa |
+| User stories | Kisah Pengguna |
+| Velocity | Halaju | 
+| Work breakdown structure (WBS) | Stuktur Pecahan Kerja | 
+| Agile transformation | Transformasi Agile |
+| Business analysis | Pengalisis Perniagaan |
+| Cost estimation | Anggaran Kos | 
+| Iteration | Iterasi |
+| Project closure | Penutupan Projek |
+| Project initiation | Permulaan Projek |
+| Project team | Pasukan projek |
+| Sprint planning | Perancangan Sprint |
 
 
 ## Business Related Terminology
 
 | Terminology | Malay Translation |
 | ------------- | ------------- |
-| Agile methodology
-| Backlog
-| Budget
-| Business requirements
-| Cost-benefit analysis
-| Customer relationship management (CRM)
-| Deployment
-| Functional requirements
-| Key performance indicator (KPI)
-| Minimum viable product (MVP)
-| Product backlog
-| Project management
-| Return on investment (ROI)
-| Risk assessment
-| Scrum methodology
-| Stakeholder
-| Software development life cycle (SDLC)
-| Sprint
-| User acceptance testing (UAT)
-| User experience (UX)
-| Vendor management
-| Agile transformation
-| Business analysis
-| Change management
-| Continuous improvement
-| Lean methodology
-| Market research
-| Product development
-| Project scope
-| Stakeholder engagement
+| Agile methodology | Metodologi Agile |
+| Backlog | - |
+| Budget | Bajet |
+| Business requirements | Keperluan Perniagaan |
+| Cost-benefit analysis | Analisis kos-faedah | 
+| Customer relationship management (CRM) | Pengurusan Hubungan Pelanggan (CRM) |
+| Deployment | - | 
+| Functional requirements | Keperluan Fungsian |
+| Key performance indicator (KPI) | Petunjuk Prestasi Utama |
+| Minimum viable product (MVP) | Produk penting minimum |
+| Product backlog | Tugasan Produk |
+| Project management | Pengurusan Projek |
+| Return on investment (ROI) | Pulangan Pelaburan |
+| Risk assessment | Pentaksiran risiko |
+| Scrum methodology | Metodologi Scrum | 
+| Stakeholder | Pihak Berkepentingan |
+| Software development life cycle (SDLC) | Kitar Hayat Pembangunan Perisian (SDLC) |
+| Sprint | - |
+| User acceptance testing (UAT) | Ujian Penerimaan Pengguna |
+| User experience (UX) | Pengalaman Pengguna |
+| Vendor management | Pengurusan Vendor |
+| Agile transformation | Transformasi Agile |
+| Business analysis | Pengalasis Perniagaan |
+| Change management | Pengurusan Perubahan |
+| Continuous improvement | Penambahbaikan berterusan |
+| Handover | Penyerahan |
+| Lean methodology | Metodologi Lean |
+| Market research | Kajian Pasaran |  
+| Product development | Pembangunan Produk |
+| Project scope | Skop Project |
+| Stakeholder engagement | Penglibatan pihak berkepentingan |
+| Progress Claim | Tuntutan Kemajuan |
+| Remaining | Baki |
