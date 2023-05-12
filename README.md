@@ -3,7 +3,7 @@
 A glossary that consist of Software development terms in the Malay language that may need to be used when it comes to carrying out Malay software projects.
 
 ```
-LASTEST UPDATE WAS 3/5/2023
+LASTEST UPDATE WAS 12/5/2023
 ```
 
 *Terms that have " - " as their translation means theres no proper standard translation so you can use the original term and just italicize.
