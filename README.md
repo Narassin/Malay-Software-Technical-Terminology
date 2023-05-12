@@ -19,8 +19,8 @@ Road to Version 1.0
 - [x] Find all possible terms that are used 
 - [x] Categorize the terms into 4 group (Basic, Software Development, Project management)
 - [x] Translate to malay
-- [] Add the definition of the term in malay
-- [] Delete Duplicate
+- [ ] Add the definition of the term in malay
+- [ ] Delete Duplicate
 
 ## Table of Context
 
