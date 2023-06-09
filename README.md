@@ -31,16 +31,16 @@ Road to Version 1.0
 
 ## Basic Terminology
 
-| Terminology | Malay Translation |
-| ------------- | ------------- |
-| Algorithm| Algoritma |
-| Binary | - |
-| Debugging | Penyahpepijatan |
-| Bit | - |
-| Byte | Bait |
-| Cache | - |
-| Compiler | - |
-| CPU (Central Processing Unit) | CPU (Unit Pemprosesan Pusat) |
+| Terminology | Malay Translation | Meaning |
+| ------------- | ------------- | ----- |
+| Algorithm| Algoritma | is a list set of instructions, used to solve problems or perform tasks, based on the understanding of available alternatives |
+| Binary | - | a numbering scheme in which there are only two possible values for each digit -- 0 or 1 | 
+| Debugging | Penyahpepijatan |  the process of finding and fixing errors or bugs in the source code of any software. |
+| Bit | - | the smallest unit of data that a computer can process and store. |
+| Byte | Bait |  a unit of data that is eight binary digits long. |
+| Cache | - | a high-speed data storage layer which stores a subset of data, typically transient in nature, so that future requests for that data are served up faster than is possible by accessing the data's primary storage location. |
+| Compiler | - | a special program that translates a programming language's source code into machine code, bytecode or another programming language. |
+| CPU (Central Processing Unit) | CPU (Unit Pemprosesan Pusat) | The component of a computer system that controls the interpretation and execution of instructions. |
 | Encryption | - |
 | Firewall | - |
 | Function | Fungsi |
