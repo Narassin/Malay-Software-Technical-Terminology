@@ -41,29 +41,29 @@ Road to Version 1.0
 | Cache | - | a high-speed data storage layer which stores a subset of data, typically transient in nature, so that future requests for that data are served up faster than is possible by accessing the data's primary storage location. |
 | Compiler | - | a special program that translates a programming language's source code into machine code, bytecode or another programming language. |
 | CPU (Central Processing Unit) | CPU (Unit Pemprosesan Pusat) | The component of a computer system that controls the interpretation and execution of instructions. |
-| Encryption | - |
-| Firewall | - |
-| Function | Fungsi |
-| Gigabyte | Gigabait |
-| GUI (Graphical User Interface) | GUI (Antara Muka Grafik Pengguna) |
-| HTML (Hypertext Markup Language) | - |
-| IDE (Integrated Development Environment) | - |
-| LAN (Local Area Network) | LAN (Rangkaian kawasan setempat) |
-| Iteration | Ulangan |
-| Kernel | - |
-| Megabyte | Megabait |
-| Operating System | Sistem Operasi |
-| Protocol | Protokol |
-| RAM (Random Access Memory) | RAM (Ingatan Capaian Rawak)  |
-| Router | Penghaa |
-| Software | Perisian |
-| Source Code | Kod Sumber |
-| Terabyte | Terabait |
-| User Interface | Antara Muka |
-| Variable | Pemboleh Ubah |
-| VPN (Virtual Private Network) | VPN (Rangkaian Persendirian Maya)  |
-| Wi-Fi | - |
-| XML (Extensible Markup Language) | - |
+| Encryption | - | The process of converting information or data into a code, especially to prevent unauthorized access. |
+| Firewall | - | A network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies |
+| Function | Fungsi | A sequence of program instructions that performs a specific task, packaged as a unit | 
+| Gigabyte | Gigabait | a specific unit of data that's equal to about 1 billion bytes of data |
+| GUI (Graphical User Interface) | GUI (Antara Muka Grafik Pengguna) | a computer program that enables a person to communicate with a computer through the use of symbols, visual metaphors, and pointing devices |
+| HTML (Hypertext Markup Language) | - | A markup language for the web that defines the structure of web pages |
+| IDE (Integrated Development Environment) | - | A software application that helps programmers develop software code efficiently |
+| LAN (Local Area Network) | LAN (Rangkaian kawasan setempat) | A collection of devices connected together in one physical location, such as a building, office, or home |
+| Iteration | Ulangan | rRepeating steps, or instructions , over and over again |
+| Kernel | - |  a computer program at the core of a computer's operating system and generally has complete control over everything in the system |
+| Megabyte | Megabait | A data measurement unit applied to digital computer or media storage |
+| Operating System | Sistem Operasi |  program that manages a computer's resources, especially the allocation of those resources among other programs |
+| Protocol | Protokol | a set of rules or procedures for transmitting data between electronic devices, such as computers |
+| RAM (Random Access Memory) | RAM (Ingatan Capaian Rawak)  | A computer or laptop's short-term memory |
+| Router | Penghala | a physical or virtual appliance that passes information between two or more packet-switched computer networks |
+| Software | Perisian | A set of instructions, data or programs used to operate computers and execute specific tasks |
+| Source Code | Kod Sumber | the fundamental component of a computer program that is created by a programme |
+| Terabyte | Terabait | A unit of digital data that is equal to about 1 trillion bytes |
+| User Interface | Antara Muka | the point of human-computer interaction and communication in a device |
+| Variable | Pemboleh Ubah | a value that can change, depending on conditions or on information passed to the program |
+| VPN (Virtual Private Network) | VPN (Rangkaian Persendirian Maya)  | An encrypted connection over the Internet from a device to a network |
+| Wi-Fi | - | A wireless networking technology that uses radio waves to provide wireless high-speed Internet access |
+| XML (Extensible Markup Language) | - | is a markup language that provides rules to define any data |
 
 ## Software Development Terminology
 
