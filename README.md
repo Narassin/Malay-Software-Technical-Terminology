@@ -21,6 +21,11 @@ Road to Version 1.0
 - [x] Translate to malay
 - [ ] Add the definition of the term in malay
 - [ ] Delete Duplicate
+- [ ] Make the list into a kind of table
+- [ ] Create an github page interface to look up the terminology
+- [ ] Set up a contribution guide
+- [ ] Set up an open source license
+- [ ] 
 
 ## Table of Context
 
