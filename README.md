@@ -3,14 +3,19 @@
 A glossary that consist of Software development terms in the Malay language that may need to be used when it comes to carrying out Malay software projects.
 
 ```
-LASTEST UPDATE WAS 12/5/2023
+LASTEST UPDATE WAS 23/12/2024
 ```
+
+### CHANGELOG
+- Added meaning column
+- Added Interface
+- Added json file
 
 *Terms that have " - " as their translation means theres no proper standard translation so you can use the original term and just italicize.
 
 ## Quick Links
-- Contribute Guideline: https://github.com/Narassin/Malay-Software-Technical-Terminology/blob/main/.github/CONTRIBUTE.md
-- Suggestion tracker: https://github.com/Narassin/Malay-Software-Technical-Terminology/issues
+<!-- - Contribute Guideline: https://github.com/Narassin/Malay-Software-Technical-Terminology/blob/main/.github/CONTRIBUTE.md
+- Suggestion tracker: https://github.com/Narassin/Malay-Software-Technical-Terminology/issues -->
 
 
 ## To Do List 
@@ -19,10 +24,10 @@ Road to Version 1.0
 - [x] Find all possible terms that are used 
 - [x] Categorize the terms into 4 group (Basic, Software Development, Project management)
 - [x] Translate to malay
-- [ ] Add the definition of the term in malay
+- [x] Add the definition of the term in malay
 - [ ] Delete Duplicate
 - [ ] Make the list into a kind of table
-- [ ] Create an github page interface to look up the terminology
+- [x] Create an github page interface to look up the terminology
 - [ ] Set up a contribution guide
 - [ ] Set up an open source license
 - [ ] 
