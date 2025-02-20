@@ -110,6 +110,14 @@ Road to Version 1.0
 | Technical debt | Hutang Teknikal |
 | Refactoring | - |
 | Pair programming | - | 
+| Index | Indeks | 
+| Store | Simpan | 
+| Edit | Sunting | 
+| Show | Papar | 
+| Create | Cipta |
+| Read | Baca | 
+| Update | Kemaskini |  
+| Delete | Padam | 
 
 ## Project Management Terminology
 
